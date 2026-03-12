@@ -1,5 +1,5 @@
-## Series transformation
-# Netflix Titles Practice 
+# Series transformation
+## Netflix Titles Practice 
 This is my first repo where I focused on Pandas Series. I wanted to understand and learn how Series works before moving on to DataFrames.
 
 What I messed around with:
